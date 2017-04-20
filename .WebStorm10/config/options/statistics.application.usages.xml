@@ -1,0 +1,39 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="文件webstorm" values="JavascriptDebugType" collectionTime="1492409212371" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="文件webstorm" values="DEFAULT" collectionTime="1492409212389" />
+    </group>
+    <group name="JSDebugConfig">
+      <project id="文件webstorm" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1492409212391" />
+    </group>
+    <group name="file-type">
+      <project id="文件webstorm" values="XML,PLAIN_TEXT,Images,UNKNOWN,HTML,JavaScript,CSS" collectionTime="1492409212389" />
+    </group>
+    <group name="module type">
+      <project id="文件webstorm" values="WEB_MODULE" collectionTime="1492409212371" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="文件webstorm" values="Project,Project" collectionTime="1492409212389" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="22" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredEngine-null.no_mappings" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="68" />
+      <entry feature="OpenInBrowser.Firefox" count="3" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="execute.JavascriptDebugType.Run" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="7" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ideaapp.started" count="17" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

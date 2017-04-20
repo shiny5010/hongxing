@@ -1,0 +1,12 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>header-ct</find>
+      <find>logo</find>
+      <find>icon-logo</find>
+      <find>nav</find>
+      <find>header</find>
+      <find>pubdate</find>
+    </findStrings>
+  </component>
+</application>

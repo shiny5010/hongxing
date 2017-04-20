@@ -1,0 +1,74 @@
+===========================================================
+astah_pro.log
+date: 15 December 2016 21:20:39 CST
+ver: Professional 7.1.0 / f2c212
+java ver: 1.8.0_102
+java vendor: Oracle Corporation
+os name: Windows 7
+os ver: 6.1
+look and feel: Windows
+system scale: 100.00%
+===========================================================
+----------------------------------------------------------
+                   System Properties                      
+----------------------------------------------------------
+
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=C:\Program Files\astah-professional\jre\bin
+java.vm.version=25.102-b14
+sun.java2d.d3d=false
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+path.separator=;
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=CN
+user.script=
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=C:\Program Files\astah-professional
+java.runtime.version=1.8.0_102-b14
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=C:\Program Files\astah-professional\jre\lib\endorsed
+os.arch=amd64
+java.io.tmpdir=C:\Users\…¡…¡µƒ~1\AppData\Local\Temp\
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+user.variant=
+os.name=Windows 7
+sun.jnu.encoding=GBK
+java.library.path=C:\Program Files\astah-professional\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\astah-professional\jre;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;F:\java\jdk\bin;F:\java\jdk\jre\bin;F:\mysql5\bin;F:\maven\apache-maven-3.3.9\bin;F:\Subversion\bin;F:\TortoiseSVN\bin;C:\Program Files\astah-professional\jre\bin;.
+sun.awt.enableExtraMouseButtons=true
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=6.1
+user.home=C:\Users\…¡…¡µƒ∫Ï–«
+user.timezone=Asia/Shanghai
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=GBK
+java.specification.version=1.8
+java.class.path=C:\Program Files\astah-professional\astah-pro.jar
+user.name=…¡…¡µƒ∫Ï–«
+java.vm.specification.version=1.8
+sun.java.command=C:\Program Files\astah-professional\astah-pro.jar
+java.home=C:\Program Files\astah-professional\jre
+sun.arch.data.model=64
+user.language=zh
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+astah.plugin.enabled=true
+java.version=1.8.0_102
+java.ext.dirs=C:\Program Files\astah-professional\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+sun.boot.class.path=C:\Program Files\astah-professional\jre\lib\resources.jar;C:\Program Files\astah-professional\jre\lib\rt.jar;C:\Program Files\astah-professional\jre\lib\sunrsasign.jar;C:\Program Files\astah-professional\jre\lib\jsse.jar;C:\Program Files\astah-professional\jre\lib\jce.jar;C:\Program Files\astah-professional\jre\lib\charsets.jar;C:\Program Files\astah-professional\jre\lib\jfr.jar;C:\Program Files\astah-professional\jre\classes
+java.vendor=Oracle Corporation
+astah.edition=professional
+file.separator=\
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.desktop=windows
+sun.cpu.isalist=amd64

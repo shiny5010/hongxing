@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="13">
+    <extensionMap>
+      <mapping pattern="personController" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

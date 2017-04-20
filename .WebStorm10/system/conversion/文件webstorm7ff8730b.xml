@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="dart-run-configurations-converter" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="jstestdriver-run-configurations-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\文件webstorm\.idea\encodings.xml" timestamp="1492056716164" />
+    <file path="E:\文件webstorm\.idea\misc.xml" timestamp="1488263366460" />
+    <file path="E:\文件webstorm\.idea\modules.xml" timestamp="1488263366482" />
+    <file path="E:\文件webstorm\.idea\vcs.xml" timestamp="1488263366472" />
+    <file path="E:\文件webstorm\.idea\workspace.xml" timestamp="1492226877966" />
+    <file path="E:\文件webstorm\.idea\文件webstorm.iml" timestamp="1488263366418" />
+  </project-files>
+</conversion>
+

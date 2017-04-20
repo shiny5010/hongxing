@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="478" y="93" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="698" y="230" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" x="283" y="144" />
+    <location key="SettingsEditor.0.0.1366.768" x="275" y="25" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="418" y="238" />
+    <location key="findTextDialog.0.0.1366.768" x="473" y="105" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="0" y="0" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="458" y="112" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1366.768" x="464" y="147" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" width="879" height="488" />
+    <size key="findTextDialog.0.0.1366.768" width="419" height="566" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<SmartAudioLog>
+  <LogEntry Time="2017/1/10 8:45:48" Location="SmartAudioStorage::Load() got Exception" Severity="WARNING" Message="XML 文档(0, 0)中有错误。" Source="System.Xml">   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   在 SmartAudio.SmartAudioStorage.Load()</LogEntry>
+</SmartAudioLog>
